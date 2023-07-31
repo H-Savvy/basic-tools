@@ -20,7 +20,7 @@
  	
 ## Guía de instalación
 ---
-Paso a paso de cómo instalar la herramienta digital. En esta sección es recomendable explicar la arquitectura de carpetas, gestores y módulos que componen el sistema.
+Paso a paso de cómo instalar la herramienta. En esta sección es recomendable aclarar que la arquitectura de carpetas, gestores y módulos que componen el sistema deben ser basados en Debian **apt**
 
 
 ### Dependencias
