@@ -1,7 +1,8 @@
 *Esta herramienta nos permite realizar multiples instalacions de manera**automatizada** de los paqutes y algunas otras aplicaiones externas que nos pueden servir al momento de instalar nuestro sistema operativo Linux*
 
 <h1 align="center"> Basic-tools</h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="basic-tools.png"/></p> 
+
 ### Etatus
 
 - code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
@@ -15,7 +16,7 @@
   
 ## Guía de usuario
 ---
-<p align="center"><href src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p>
+<p align="center"><a href="basic-tools.txt">Leer las instrucciones</a></p>
  	
 ## Guía de instalación
 ---
