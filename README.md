@@ -2,7 +2,8 @@
 
 <h1 align="center"> Basic-tools</h1>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
-### Ejemplos de badges
+### Etatus
+
 - code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
 - package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
@@ -11,6 +12,7 @@
 - [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
 - Bash package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
 - Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+  
 ## Guía de usuario
 ---
 <p align="center"><href src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p>
@@ -35,16 +37,16 @@ Utilice los siguienetes comandos para realizar la instalacion, de acuerdo a su S
     apt install git
 
 ## clonamos este repositorio
-   git clone https://github.com/H-Savvy/basic-tools.git
+    git clone https://github.com/H-Savvy/basic-tools.git
 
 ## Navega al directorio "basic-tools":
-   cd basic-tools
+    cd basic-tools
 
 ## Otorga permisos de ejecución al script "basic-tools.sh":
-   chmod +x basic-tools.sh
+    chmod +x basic-tools.sh
 
 ## Ejecuta el script "basic-tools.sh" con privilegios de superusuario:
-   sudo ./basic-tools.sh
+    sudo ./basic-tools.sh
 ---
 
 Recuerda leer las instrucciones del script para poder entender que realiza cada accion
