@@ -1,4 +1,4 @@
-*Esta herramienta nos permite realizar multiples instalacions de manera**automatizada** de los paqutes y algunas otras aplicaiones externas que nos pueden servir al momento de instalar nuestro sistema operativo Linux*
+*Esta herramienta nos permite realizar multiples instalacions de manera **automatizada** de los paqutes y algunas otras aplicaiones externas que nos pueden servir al momento de instalar nuestro sistema operativo Linux*
 
 <h1 align="center"> Basic-tools</h1>
 <p align="center"><img src="basic-tools.png"/></p> 
