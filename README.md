@@ -16,7 +16,7 @@
   
 ## Guía de usuario
 ---
-<p align="center"><a href="basic-tools.txt">Leer las instrucciones</a></p>
+<p align="center"><a href="basic-tools-guia.txt">Leer las instrucciones</a></p>
  	
 ## Guía de instalación
 ---
