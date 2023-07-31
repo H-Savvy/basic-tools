@@ -1,0 +1,59 @@
+Bienvenido al script de instalación de paquetes básicos de Linux y aplicaciones externas.
+
+Este script se enfoca en realizar las instalaciones de los paquetes básicos de Linux y aplicaciones externas. 
+Cuenta con un menu de 4 opciones:
+
+Opción 1: Realizar instalaciones de paquetes básicos.
+En esta opción, el script instalará los siguientes paquetes básicos:
+- git
+- curl
+- wget
+- vim
+- nano
+- emacs
+- neovim
+- sysstat
+- glances
+- python3
+- nodejs
+- openjdk-11-jdk
+- gnome-shell
+- kde-plasma-desktop
+- xfce4
+- gparted
+- timeshift
+- fail2ban
+- rkhunter
+- gnupg
+- apache2
+- mariadb-server
+- php
+- vlc
+- ffmpeg
+- unzip
+- zip
+- p7zip-full
+- clang
+
+Opción 2: Instalar aplicaciones externas.
+Dentro de esta opción.
+encontrarás un menú con 6 opciones para realizar las instalaciones de las siguientes aplicaciones externas:
+1. telegram-desktop
+2. discord
+3. google-chrome-stable
+4. virtualbox
+5. sublime-text
+6. Volver al menú anterior
+
+Opción 3: Verificar instalaciones.
+Esta opción te permite verificar qué paquetes básicos y aplicaciones externas están instalados en tu sistema. 
+En caso de que algún paquete o aplicación no esté instalado, el script te mostrará una lista de los elementos faltantes.
+
+Opción 4: Salir del script.
+Si seleccionas esta opción, el programa finalizará y saldrás del menú.
+
+¡Recuerda que el script realizará las instalaciones y verificaciones según tus elecciones!
+
+Esperamos que este script te sea útil. 
+¡Disfruta usando Linux con los paquetes y aplicaciones adecuados para tus necesidades! 
+¡Que tengas un buen día!
