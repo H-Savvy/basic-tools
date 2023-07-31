@@ -1,21 +1,4 @@
-<style>
-  /* Cambiar tamaño de letras */
-  p {
-    font-size: 18px;
-  }
-
-  code {
-    font-size: 14px;
-    background-color: #f0f0f0;
-    padding: 2px 4px;
-    border-radius: 3px;
-  }
-</style>
-
-<!-- Contenido con estilos -->
-
 <p>Para actualizar e instalar las herramientas básicas, sigue los siguientes pasos:</p>
-
 <ol>
   <li>
     <p>Actualiza la lista de paquetes disponibles e instala las actualizaciones:</p>
