@@ -23,13 +23,8 @@
 Paso a paso de cómo instalar la herramienta digital. En esta sección es recomendable explicar la arquitectura de carpetas, gestores y módulos que componen el sistema.
 
 
-La guía de instalación debe contener de manera específica:
-- Sistemas basados en Debian usar **apt**
-- Fedora, CentOS, RedHad usar **dnf**
-- Arch Linux, Manjaro usar **pacman**
-
 ### Dependencias
-Utilice los siguienetes comandos para realizar la instalacion, de acuerdo a su Sistema Operativo, reemplazar el **apt** por el gestor que use su sistema operativo respectivo
+Siga los pasos de instalacion correctamente para que no experimente errores en su instalacion.
 
 ## primero actualizamos los paquetes de nuestro sistema
     apt update && apt upgrade -y
